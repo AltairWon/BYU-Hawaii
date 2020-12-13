@@ -19,3 +19,8 @@ def manyPeople():
     x = 0
     y += 60
   explore(canvas)
+
+  #Command Area :
+  # >>> canvas = makeEmptyPicture(300,300)
+  # >>> makePerson(canvas,40,40)
+  # >>> explore(canvas)
